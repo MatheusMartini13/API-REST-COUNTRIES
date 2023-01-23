@@ -1,0 +1,23 @@
+{
+  "name": "api-rest-countries",
+  "version": "1.0.0",
+  "description": "Using the restCountries API in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMartini13/API-REST-COUNTRIES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMartini13/API-REST-COUNTRIES/issues"
+  },
+  "homepage": "https://github.com/MatheusMartini13/API-REST-COUNTRIES#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

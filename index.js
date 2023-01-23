@@ -1,3 +1,5 @@
+//this just uses GET, for GET and POST and the use of json-server, go to post directory
+
 function createCountryCard(country){
   const card = document.createElement('div')
   card.classList.add('country')

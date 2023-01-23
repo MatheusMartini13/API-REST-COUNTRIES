@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo",
+      "content": "Lorem ipsum mueansn uneklso dorote",
+      "author": "Matt"
+    },
+    {
+      "id": 2,
+      "title": "Requisição POST",
+      "content": "Lorem ipsum mueansn uneklso silver dourot",
+      "author": "Matthew"
+    },
+    {
+      "title": "Aprendendo Javascript",
+      "author": "Matt",
+      "content": "Olá, mundo!",
+      "id": 3
+    },
+    {
+      "title": "Matt lindo",
+      "content": "Matt é um gostoso!",
+      "author": "Nai",
+      "id": 4
+    }
+  ]
+}
